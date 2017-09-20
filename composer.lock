@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "5bf8ef227fbb0558804576ead97b1558",
+    "content-hash": "ade5687d7ffd8f7a144032c213b5aab8",
     "packages": [
         {
             "name": "dnoegel/php-xdg-base-dir",
@@ -237,16 +237,16 @@
         },
         {
             "name": "laravel/framework",
-            "version": "v5.4.33",
+            "version": "v5.4.34",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "e53a81a2bf406f501cdf818ad949f8d6c8dabfc0"
+                "reference": "eaa09c998b315af9fbec04ad29ecfbfd2aa88aeb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/e53a81a2bf406f501cdf818ad949f8d6c8dabfc0",
-                "reference": "e53a81a2bf406f501cdf818ad949f8d6c8dabfc0",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/eaa09c998b315af9fbec04ad29ecfbfd2aa88aeb",
+                "reference": "eaa09c998b315af9fbec04ad29ecfbfd2aa88aeb",
                 "shasum": ""
             },
             "require": {
@@ -362,7 +362,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2017-08-14T20:17:41+00:00"
+            "time": "2017-08-23T20:31:28+00:00"
         },
         {
             "name": "laravel/tinker",
@@ -988,16 +988,16 @@
         },
         {
             "name": "stripe/stripe-php",
-            "version": "v3.23.0",
+            "version": "v5.1.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/stripe/stripe-php.git",
-                "reference": "c702a2ed92f4b39603c4a796492d87bcc16c819c"
+                "reference": "ee57d045ef3d199ee9371e8f61679656b3db0816"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/c702a2ed92f4b39603c4a796492d87bcc16c819c",
-                "reference": "c702a2ed92f4b39603c4a796492d87bcc16c819c",
+                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/ee57d045ef3d199ee9371e8f61679656b3db0816",
+                "reference": "ee57d045ef3d199ee9371e8f61679656b3db0816",
                 "shasum": ""
             },
             "require": {
@@ -1039,7 +1039,7 @@
                 "payment processing",
                 "stripe"
             ],
-            "time": "2016-09-15T18:16:59+00:00"
+            "time": "2017-08-14T17:51:12+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",

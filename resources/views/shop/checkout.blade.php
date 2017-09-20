@@ -18,29 +18,29 @@
                 <div class="row">
                     <div class="col-xs-12">
                         <div class="form-group">
-                            <label for="name">Name</label>
-                            <input type="text" id="name" class="form-control" required>
+                            <label for="name">Имя</label>
+                            <input type="text" name="name" id="name" class="form-control" required>
                         </div>
                     </div>
 
                     <div class="col-xs-12">
                         <div class="form-group">
-                            <label for="address">Address</label>
-                            <input type="text" id="address" class="form-control" required>
+                            <label for="address">Адрес</label>
+                            <input type="text" name="address" id="address" class="form-control" required>
                         </div>
                     </div>
 
                     <div class="col-xs-12">
                         <div class="form-group">
-                            <label for="card-name">card holder name</label>
-                            <input type="text" id="card-name" class="form-control" required>
+                            <label for="card-name">Телефон</label>
+                            <input type="text" name="tel" id="card-name" class="form-control" required>
                         </div>
                     </div>
 
                     <div class="col-xs-12">
                         <div class="form-group">
-                            <label for="card-number">Credit Card Number</label>
-                            <input type="text" id="card-number" class="form-control" required>
+                            <label for="card-number">Email</label>
+                            <input type="text" name="email" id="card-number" class="form-control" required>
                         </div>
                     </div>
 

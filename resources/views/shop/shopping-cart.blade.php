@@ -20,8 +20,8 @@
                                 Action <span class="caret"></span>
                             </button>
                             <ul class="dropdown-menu">
-                                <li><a href=""></a>Reduce by 1</li>
-                                <li><a href=""></a> Reduce All</li>
+                                <li><a class="btn btn-danger" href="{{url('/reduce',['id'=>$product['item']['id']])}}">Reduce by 1</a></li>
+                                <li><a href="{{url('/remove',['id' =>$product['item']['id']])}}"> Reduce All</a></li>
                             </ul>
                         </div>
                     </li>
